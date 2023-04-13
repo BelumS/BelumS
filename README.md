@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin: Bel Sahn](https://img.shields.io/badge/-bel-sahn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-sahn/)](https://www.linkedin.com/in/bel-sahn/)
+[![Linkedin: Bel Sahn](https://img.shields.io/badge/-belsahn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-sahn/)](https://www.linkedin.com/in/bel-sahn/)
 [![GitHub BelumS](https://img.shields.io/github/followers/belums?label=follow&style=social)](https://github.com/belums)
 
 <h2>💻 Some stats 💻</h2>
