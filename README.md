@@ -26,9 +26,9 @@ const bel = {
   databases: [MySQL, PostgreSQL],
   frameworks: [Spring, React],
   tools: [Docker, Github Actions, Jenkins, AWS, Redux],
-  buildTools: [Maven, Gradle, Vite],
+  buildTools: [Maven, Gradle, Webpack, Vite],
   tests: [JUnit 5, AssertJ, Mockito, Mockk, Jest],
-  architecture: ["monolithic", "microservices", "cloud"],
+  architecture: ["Monolithic", "Microservices"],
   challenge: "I am creating my portfolio website"
 }
 ```
