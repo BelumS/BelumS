@@ -25,11 +25,12 @@ const bel = {
   code: [Java, Kotlin, HTML, CSS, SASS, JavaScript, TypeScript],
   databases: [MySQL, PostgreSQL],
   frameworks: [Spring, React],
-  tools: [Docker, Github Actions, Jenkins, AWS, Redux],
+  tools: [Docker, Github Actions, Jenkins, Splunk],
   buildTools: [Maven, Gradle, Webpack, Vite],
   tests: [JUnit 5, AssertJ, Mockito, Mockk, Jest],
+  cloud: [Netlify, AWS],
   architecture: ["Monolithic", "Microservices"],
-  challenge: "I am creating my portfolio website"
+  challenges: ["I am building my personal website", "I am practicing LeetCode"]
 }
 ```
 
