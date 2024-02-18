@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ```javascript
 const bel = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin],
+  code: [Java, Kotlin, HTML, CSS, JS],
   databases: [MySQL, PostgreSQL],
-  frameworks: [Spring],
+  frameworks: [Spring, ReactJS],
   tools: [Docker, Github Actions, Jenkins, Splunk],
   buildTools: [Maven, Gradle],
   tests: [JUnit 5, AssertJ, Mockito],
-  cloud: [Netlify, AWS],
+  cloud: [Netlify, AWS, OpenShift],
   architecture: ["Monolithic"],
   challenges: ["I am practicing LeetCode"]
 }
