@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 [![Linkedin: Bel Sahn](https://img.shields.io/badge/-belsahn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bel-sahn/)](https://www.linkedin.com/in/bel-sahn/)
 [![GitHub BelumS](https://img.shields.io/github/followers/belums?label=follow&style=social)](https://github.com/belums)
 
-
 ```javascript
 const bel = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin, HTML, CSS, JS],
+  code: [Java, Kotlin, HTML, CSS, SASS, JS],
   databases: [MySQL, PostgreSQL],
   frameworks: [Spring, ReactJS],
   tools: [Docker, Github Actions, Jenkins, Splunk],
@@ -30,7 +29,7 @@ const bel = {
   tests: [JUnit 5, AssertJ, Mockito],
   cloud: [Netlify, AWS, OpenShift],
   architecture: ["Monolithic"],
-  challenges: ["I am practicing LeetCode"]
+  challenges: ["I am studying for AWS Certification"]
 }
 ```
 
