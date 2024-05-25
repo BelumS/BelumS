@@ -29,7 +29,7 @@ const bel = {
   tests: [JUnit 5, AssertJ, Mockito],
   cloud: [Netlify, AWS, OpenShift],
   architecture: ["Monolithic"],
-  challenges: ["I am studying for AWS Certification"]
+  challenges: ["I am studying for AWS Certified Developer Associate"]
 }
 ```
 
@@ -43,3 +43,4 @@ const bel = {
 ---
 
 ⭐️ From [@BelumS](https://github.com/BelumS)
+⭐️ At [Site](https://belsahn.netlify.app/)
