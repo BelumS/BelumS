@@ -29,7 +29,7 @@ const bel = {
   tests: [JUnit 5, AssertJ, Mockito],
   cloud: [Netlify, AWS, OpenShift],
   architecture: ["Monolithic"],
-  challenges: ["I am studying for AWS Certified Developer Associate"]
+  challenges: ["I am studying WordPress."]
 }
 ```
 
