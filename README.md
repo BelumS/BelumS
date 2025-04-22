@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 ```javascript
 const bel = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin, HTML, CSS, SASS, JS],
-  databases: [MySQL, PostgreSQL],
+  code: [Kotlin, HTML, CSS, SASS, JS, TS],
+  databases: [MySQL, PostgreSQL, MongoDB],
   frameworks: [Spring, ReactJS],
   tools: [Docker, Github Actions, Jenkins, Splunk],
   buildTools: [Maven, Gradle],
-  tests: [JUnit 5, AssertJ, Mockito],
-  cloud: [Netlify, AWS, OpenShift],
+  tests: [JUnit 5, Kotest, Mockk],
+  cloud: [Netlify, AWS, GCP],
   architecture: ["Monolithic"],
-  challenges: ["I am studying WordPress."]
+  challenges: ["I am studying Spring Reactive Web."]
 }
 ```
 
